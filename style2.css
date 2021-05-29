@@ -1,0 +1,92 @@
+/*----------ABOUT----------*/
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  font-size: 20px;
+  font-family: 'Merriweather', serif;
+  bottom: 0;
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+#head{
+  width: 100%;;
+  left:50%;
+  right: 50%;
+  top: 50%;
+  bottom:50%;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #f1f1f1;
+}
+#home{
+  text-decoration: none;
+  font-size: 30px;
+  font-family: 'Merriweather', serif;
+  color: #e4efe7;
+  padding: 0 30px;
+}
+#home:hover{
+  color:red;
+}
+
+/*----------LEARN MORE-------*/
+.learn-container{
+  margin: 100px 0;
+  background-color:#EAF6F6;
+}
+
+.learn-middle-container{
+  background-color:#EAF6F6;
+}
+
+.learn-top-intro {
+  width: 30%;
+  margin: auto;
+  text-align: left;
+}
+
+.learn-top-head{
+  color:#5b8a72;
+  font-family: 'Limelight', cursive;
+}
+
+.why-us{
+  background-color:#EAF6F6;
+}
+
+.calc-img{
+  width: 15%;
+}
+
+.chair-img{
+  width: 15%;
+}
+.growth-img{
+  width: 15%
+}
+.learn-row{
+  width: 50%;
+  margin: 60px auto 60px auto;
+  text-align: center;
+}
+
+.learn-middle-head{
+  color: #387c6d;
+}
+.message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+body{
+   background-image: url(images/matback.jpg);
+ }

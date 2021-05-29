@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+ul{
+  margin-left: 60px;
+}
+
+nav{
+  width: auto;
+  height: 100px;
+  background-color: #94d0cc;
+}
+ul li{
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
+}
+ul li a{
+  text-decoration: none;
+  font-size: 14px;
+  font-family: sans-serif;
+  color: #0c4271;
+  padding: 0 30px;
+}
+ul li a:hover{
+  color: red;
+}
+
+.search-form{
+  margin-top: 30px;
+  float: right;
+  margin-right: 100px;
+}
+
+input[type=text]{
+  padding: 7px;
+  border: none;
+  justify-content: center;
+  font-size: 16px;
+  font-family: 'Montserrat', serif;
+}
+
+button{
+  float: right;
+  background-color: #d1d9d9;
+  border-radius: 0 5px 5px 0;
+  cursor: pointer;
+  position: relative;
+  padding: 7px;
+  font-family: 'Montserrat', serif;
+  border: none;
+  font-size: 16px;
+}
+
+/*----------ABOUT----------*/
